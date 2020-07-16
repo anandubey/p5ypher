@@ -1,4 +1,4 @@
-# Hola! I am Anand ![](https://media.giphy.com/media/oFI4SgQkWYURBLfwzW/giphy.gif)
+# Hola! I am Anand ![](https://github.com/geeky-anand/geeky-anand/blob/master/ezgif.com-resize.gif)
 
 ## About me  :ghost:
 
