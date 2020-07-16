@@ -7,18 +7,17 @@
 
 Here are some ideas to get you started:
 -->
+ - 🔭 I’m currently working on something really cool :fire:
 
-### - 🔭 I’m currently working on something really cool :fire:
+ - 🌱 I’m currently learning Flutter
 
-### - 🌱 I’m currently learning Flutter
+ - 👯 We can collaborate on :octocat:
 
-### - 👯 We can collaborate on :octocat:
+ - 🤔 I’m looking for help with Dart :dart:
 
-### - 🤔 I’m looking for help with Dart :dart:
+ - 💬 Ask me about :snake: 
 
-### - 💬 Ask me about :snake: 
-
-### - 📫 You can find me on:
+ - 📫 You can find me on:
         [**LinkedIn**](https://www.linkedin.com/in/geekyanand/)
         
-### - ⚡ Fun fact: I am as good as a professional AWPer in CS:GO
+ - ⚡ Fun fact: I am as good as a professional AWPer in CS:GO
